@@ -8,7 +8,7 @@ public class HelloWorld {
 		
 		Scanner sc = new Scanner(System.in);
 		int a , b;
-		
+		  
 		a = sc.nextInt();
 		b = sc.nextInt();
 		System.out.println(a-b);
